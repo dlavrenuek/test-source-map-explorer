@@ -10,6 +10,7 @@
 
 # production
 /build
+analyze-result.json
 
 # misc
 .DS_Store
